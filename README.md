@@ -9,8 +9,8 @@ External Wi-Fi Netgear WNA1000M
 
 Internal wi-fi randomly disconects after several thundred megabytes until reboot
 
-Touchpad works
-HDMI works
-Audio works
+Touchpad works,
+HDMI works,
+Audio works,
 
 based on Acer-Travelmate-P253-Hackintosh-main.zip 
